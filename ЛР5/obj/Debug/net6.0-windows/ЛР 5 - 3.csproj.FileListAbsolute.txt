@@ -1,0 +1,16 @@
+E:\2 курс\ООП\ЛР 5 - 3\obj\Debug\net6.0-windows\ЛР_5___3.Form1.resources
+E:\2 курс\ООП\ЛР 5 - 3\obj\Debug\net6.0-windows\ЛР 5 - 3.csproj.GenerateResource.cache
+E:\2 курс\ООП\ЛР 5 - 3\obj\Debug\net6.0-windows\ЛР 5 - 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\2 курс\ООП\ЛР 5 - 3\obj\Debug\net6.0-windows\ЛР 5 - 3.AssemblyInfoInputs.cache
+E:\2 курс\ООП\ЛР 5 - 3\obj\Debug\net6.0-windows\ЛР 5 - 3.AssemblyInfo.cs
+E:\2 курс\ООП\ЛР 5 - 3\obj\Debug\net6.0-windows\ЛР 5 - 3.csproj.CoreCompileInputs.cache
+E:\2 курс\ООП\ЛР 5 - 3\bin\Debug\net6.0-windows\ЛР 5 - 3.exe
+E:\2 курс\ООП\ЛР 5 - 3\bin\Debug\net6.0-windows\ЛР 5 - 3.deps.json
+E:\2 курс\ООП\ЛР 5 - 3\bin\Debug\net6.0-windows\ЛР 5 - 3.runtimeconfig.json
+E:\2 курс\ООП\ЛР 5 - 3\bin\Debug\net6.0-windows\ЛР 5 - 3.dll
+E:\2 курс\ООП\ЛР 5 - 3\bin\Debug\net6.0-windows\ЛР 5 - 3.pdb
+E:\2 курс\ООП\ЛР 5 - 3\obj\Debug\net6.0-windows\ЛР 5 - 3.dll
+E:\2 курс\ООП\ЛР 5 - 3\obj\Debug\net6.0-windows\refint\ЛР 5 - 3.dll
+E:\2 курс\ООП\ЛР 5 - 3\obj\Debug\net6.0-windows\ЛР 5 - 3.pdb
+E:\2 курс\ООП\ЛР 5 - 3\obj\Debug\net6.0-windows\ЛР 5 - 3.genruntimeconfig.cache
+E:\2 курс\ООП\ЛР 5 - 3\obj\Debug\net6.0-windows\ref\ЛР 5 - 3.dll
